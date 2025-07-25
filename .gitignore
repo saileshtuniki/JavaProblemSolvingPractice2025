@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore build output directory
+/out/
+
+# Ignore IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Ignore logs (if any generated)
+*.log
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
