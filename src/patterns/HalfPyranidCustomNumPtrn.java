@@ -17,3 +17,10 @@ public class HalfPyranidCustomNumPtrn {
 
     }
 }
+
+/*
+1
+23
+456
+78910
+* */
